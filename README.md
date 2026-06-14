@@ -1,5 +1,5 @@
 # FundingRateScan_V1
-Scanner per coin cripto analizzando funding rate per indentificare quelle con volatilità maggiore
+Scanner per coin cripto analizzando funding rate per indentificare quelle con probabile volatilità esplosiva in futuro
 
 File :
 - File zip contenete il programma da eseguire con Visual Studio C# 2022 - Aggiornato al 15/06/2026 ore 1:04
